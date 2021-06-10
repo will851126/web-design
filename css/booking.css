@@ -1,0 +1,75 @@
+.card form {
+    width: 80%;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+body {
+    background-color: black;
+}
+
+.photo {
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.photo img {
+    text-align: center;
+    width: 100%;
+    position: ;
+}
+
+.card {
+    background-color: transparent;
+}
+
+.container {
+    height: 100%;
+    padding-top: 0px;
+}
+
+.ahead {
+    float: left;
+    padding-left: 3vw;
+    width: 17%;
+    color: white;
+}
+
+.type {
+    float: right;
+    width: 75%;
+    margin-right: 5vw;
+}
+
+.card {
+    padding-bottom: 1vw;
+    padding-top: 1vw;
+}
+
+.sign {}
+
+.button {
+    margin-top: 30px;
+    float: right;
+    margin-right: 5vw;
+    width: 15%;
+    height: 50px;
+}
+
+.type1 {
+    float: right;
+    width: 15%;
+    margin-right: 67%;
+    margin-top: 20px;
+}
+
+h1 {
+    color: white;
+    padding-top: 20px;
+}
+
+.form-check-inline {
+    color: white;
+}

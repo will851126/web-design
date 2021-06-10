@@ -1,0 +1,89 @@
+.card form {
+    width: 80%;
+    padding-top: 10px;
+}
+
+body {
+    background-color: black;
+}
+
+.card {
+    opacity: 0.8;
+    width: 100%;
+    background-color: transparent;
+    padding-top: 50px;
+}
+
+
+/*.photo
+    width: 100%;
+    position: fixed;
+    z-index: -10;
+    margin:10vw;
+    margin-top: 200px;
+    background-color:lime; 
+   }*/
+
+.photo {
+    margin-top: -40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%
+}
+
+.photo img {
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    color: white;
+}
+
+.container {
+    /*height:100%;
+    width: 100%;*/
+    padding-bottom: 0px;
+    /*padding-top: 65px;
+   */
+    background-color: black;
+}
+
+.ahead {
+    float: left;
+    padding-left: -2vw;
+    width: 17%;
+    color: white;
+}
+
+.type {
+    float: right;
+    width: 75%;
+    margin-right: 5vw;
+}
+
+.card {
+    padding-bottom: 1vw;
+}
+
+.sign {
+    margin-bottom: 20px;
+    color: cornsilk;
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 38%;
+    width: 30%;
+    height: 50px;
+}
+
+.type1 {
+    float: right;
+    width: 15%;
+    margin-right: 68%;
+}
+
+.form-group {
+    margin-left: 10px;
+}

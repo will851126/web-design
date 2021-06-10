@@ -1,0 +1,65 @@
+iframe {
+    width: 100%;
+}
+
+.card {
+    width: 100%;
+}
+
+.card2 {
+    width: 100%;
+}
+
+
+/*.left {
+    float: left;
+    width: 40%;
+    padding: 7% 3% 0 5%;
+    height: 100px;
+}*/
+
+
+/*.left img {
+    margin-top: 150px;
+    width: 100px;
+    height: 110px;
+    width: 47%;
+}*/
+
+
+/*.left p {
+    padding-left: 10.5%;
+}*/
+
+.up {
+    width: 100%;
+}
+
+ul {
+    width: 100%;
+}
+
+.down {
+    text-align: center;
+}
+
+.countdown {
+    font-size: 1em;
+    color: #707070;
+}
+
+.left-foto {
+    float: left;
+    width: 35%;
+}
+
+.left-foto img {
+    width: 90px;
+    height: 100px;
+}
+
+.right-word {
+    text-align: left;
+    float: right;
+    width: 65%;
+}
